@@ -63,7 +63,7 @@ This will open your webcam feed and start tracking your movements.
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check
-[issues page](https://github.com/Harshal292004/workout-rep-counter/issues)if you want to contribute.
+[issues page](https://github.com/Harshal292004/workout-rep-counter/issues) if you want to contribute.
 
 ## License
 
